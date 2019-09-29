@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/neuronLab/.vs/neuronLab/v16
+/neuronLab/debug
+/neuronLab/release
+/neuronLab/x64/Debug
+/neuronLabDll/debug
+/neuronLabDll/x64/Debug

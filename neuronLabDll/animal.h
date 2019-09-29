@@ -1,0 +1,17 @@
+#ifndef ANIMAL_H
+#define ANIMAL_H
+
+namespace neuron
+{
+    struct Animal
+    {
+        std::string species;
+        std::string family;
+        double nu;
+    };
+
+    std::array<double, 10> getNeuronSignal( const Animal&  );
+}
+
+
+#endif // ANIMAL_H
